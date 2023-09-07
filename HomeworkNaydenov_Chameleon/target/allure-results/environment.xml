@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<environment>
+    <parameter>
+        <key>applicationUrl (Адрес приложения)</key>
+    </parameter>
+    <parameter>
+        <key>driverType (Тип драйвера)</key>
+        <value>CHROME</value>
+    </parameter>
+</environment>
